@@ -1,0 +1,156 @@
+    1  python3 --version
+    2  sudo -k
+    3  sudo whoami
+    4  sudo -k
+    5  sudo whoami
+    6  sudo -k
+    7  sudo whoami
+    8  cd Desktop
+    9  cd Desktop/
+   10  clear
+   11  pwd
+   12  mkdir
+   13  cd Onedrive
+   14  cd..
+   15  cd ..
+   16  cd Desktop
+   17  cd Onedrive
+   18  cd Desktop
+   19  mkdir Coding-cafe
+   20  cd Coding-cafe
+   21  ped
+   22  pwd
+   23  ls
+   24  ls -a
+   25  cd ..
+   26  ls
+   27  cd Coding-cafe
+   28  mkdir week01
+   29  mkdir week02
+   30  touch README.md
+   31  cd week02
+   32  touch notes.md
+   33  cd..
+   34  cd ..
+   35  ls
+   36  ls-a]
+   37  ls -a
+   38  ls week02
+   39  clear
+   40  ls
+   41  ls week02
+   42  ls Coding-cafe/week02
+   43  cd ..
+   44  ls Coding-cafe/week02
+   45  ls Coding-cafe
+   46  cd week02
+   47  cd Coding-cafe
+   48  cd week02
+   49  code notes.md
+   50  ls
+   51  cd
+   52  pwd
+   53  ls
+   54  /mnt/c/users/admin_mythreya/Desktop
+   55  cd Desktop
+   56  clear
+   57  ls
+   58  clear
+   59  wsl
+   60  clear
+   61  ls -a
+   62  cd /mnt/c/Users/admin
+   63  cd _mythreya
+   64  cd pictures
+   65  ls
+   66  ls -a
+   67  cd Onedrive
+   68  ls
+   69  cd Pictures
+   70  ls
+   71  cd Screenshots
+   72  ls
+   73  ls -a
+   74  ls -l
+   75  cd ..
+   76  ls -l
+   77  cd ..
+   78  ls -l
+   79  pwd
+   80  cd ..
+   81  ls -l
+   82  echo $PATH
+   83  cd onedrive
+   84  cd Coding-cafe
+   85  cd Desktop
+   86  cd Coding-cafe
+   87  cp README.md README-backup.md
+   88  mv README-backup.md week01/
+   89  cd week01
+   90  mv README-backup.md old-readme.md
+   91  ls
+   92  rm old-readme.md
+   93  clear
+   94  which python3
+   95  cd onedrive
+   96  cd ..
+   97  echo $PATH
+   98  which pip
+   99  which ls
+  100  pyton3
+  101  which pyton3
+  102  pyton3
+  103  cd ~/coding-cafe
+  104  cd onedrive
+  105  cd Desktop
+  106  cd Coding-cafee
+  107  cd Coding-cafe
+  108  python3 -m venv .venv
+  109  cd ~/coding-cafe python3 -m venv .venv
+  110  ls
+  111  cd ..
+  112  ls
+  113  ls -a
+  114  cd ..
+  115  ls
+  116  ls -a
+  117  ls -l
+  118  cd Desktop
+  119  ls -l
+  120  apt install python3.14-venv
+  121  sudo apt install python3.14-venv
+  122  sudo apt update
+  123  sudo apt install python3-venv
+  124  python3.14 -m venv --help
+  125  cd Onedrive
+  126  cd Desktop
+  127  cd Coding-cafe
+  128  python3 -m venv .venv
+  129  python3.14 -m venv --help
+  130  cd Onedrive
+  131  cd Desktop
+  132  cd Coding-cafe
+  133  python3 -m venv .venv
+  134  cd Onedrive
+  135  cd Desktop
+  136  cd Coding-cafe
+  137  python3 -m venv .venv
+  138  ls
+  139  ls -a
+  140  source .venv/bin/activate
+  141  which python3
+  142  pip list
+  143  pip install requests
+  144  pip list
+  145  sudo apt install python3-pip
+  146  pip list
+  147  pip install requests
+  148  pip list
+  149  deactivate
+  150  which python3
+  151  man ls
+  152  ls -h
+  153  man man
+  154  cd cod
+  155  python3
+  156  history > week02/lab01-log.txt
