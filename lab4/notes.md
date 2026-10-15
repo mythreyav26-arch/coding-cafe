@@ -13,3 +13,15 @@
 7.  3f3d5555ef4aa2baa42838e9defb3b73f9da58ae (HEAD -> master) and changed 4 files
 
 8. They are the short commit hash (from SHA-1). Mine is "3f3d555 (HEAD -> master)".It is a unique ID for that commit, used to refer to it later, for example in git show, git checkout or git revert.
+
+9. The four steps of the loop are: edit a file, check it with git status, stage the change with git add, and commit it with git commit -m "message". I did this loop twice, once for my first commit and once for lab4/notes.md
+
+10. The file is called README.md and sits in the repository’s top folder because it is the first thing anyone sees when they open the project. GitHub looks for a file with that name in the root and automatically displays it on the front page, rendered as formatted text. A name like notes.md would not be shown there, so visitors would not get the project’s introduction.
+
+11. gh auth login signed me in through the browser and saved an access token on my computer. It also set Git to use that token, so Git does not ask for a password when I push.
+
+12. gh auth login signed me in through the browser and saved an access token on my computer. It also set Git to use that token, so Git does not ask for a password when I push.
+
+13. No. Pushing only copies my commits to GitHub, and the hashes and history are the same. The only change is a label like origin/main next to my latest commit.
+
+14. A private repository still exists on GitHub's servers, but only I and the people I invite can see it. A repository that does not exist on GitHub has no copy online at all, only on my laptop.
